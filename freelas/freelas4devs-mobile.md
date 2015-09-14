@@ -38,3 +38,8 @@ Por exemplo:
   - PHP/CodeIgniter
   - Java/Android
   - JavaScript/Parse
+- Nicolas Fontes - nicolas.rfontes@gmail.com - github.com/nicolasribeirofontes - fb.com/nicolasrfontes
+  - NodeJS
+  - Angular
+  - MongoDB
+  - Javascript
